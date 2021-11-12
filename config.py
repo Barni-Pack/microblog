@@ -18,3 +18,4 @@ class Config(object):
     ADMINS = ["fiji8800@gmail.com"]
     
     POSTS_PER_PAGE = 3
+    LANGUAGES = ['en', 'es']
